@@ -1,4 +1,4 @@
-# SLACK BOT (By Enol Álvarez [enol826@hotmail.com])
+# SLACK BOT (By enol826)
 ## Quickstart (How to test it?)
 In order to test the app:
 1. Connect to your Slack workspace
