@@ -13,13 +13,7 @@ In order to test the app:
 4. Run the 'main.py' file (and make sure you're connected to the Internet)
 
 ## Dependencies (Python modules)
-- datetime
-- time
-- threading
-- requests
-- json
-- math
-- random
+- [requests](http://docs.python-requests.org/en/master/)
 
 ## How the app is connected to Slack
 FOR TESTING PURPOSES:
